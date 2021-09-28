@@ -5,12 +5,14 @@
 **Mobile phone:**   *+375 (29) 880-80-02*
 
 ## About me
+
 I am a bus driver. I very like cars, I like anything new. I also like technical things like a programming.
 
 ## Skills
 Currently I am a rolling scopes school student. I learn JS/HTML/CSS
 
 ![JS Learning](https://hsto.org/webt/9t/9l/vm/9t9lvmkomk56v41_-tso6mohnb0.png)
+
 
 ## My code examples
 ```
@@ -35,4 +37,5 @@ I have techincal education. I was studying electricity in college.
 
 ### English level
 My english level is A1.
+
 I am learning english at [Learning English BBC](https://www.bbc.co.uk/learningenglish/english/course/emw)

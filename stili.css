@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(46, 122, 46);
+}
+
+h1 {
+    font-size: 50px;
+    color: rgb(21, 26, 97);
+}
+
+h2 {
+    color: rgb(188, 236, 56);
+}
+
+h3 {
+    font-size: 30px;
+    color: rgb(67, 34, 92);
+}
+
+.avatar {
+    color: maroon;
+}
+
+.tel {
+    font-size: 26px;
+    font-weight: 900; 
+}
+
+.texs {
+    line-height: 25px;
+    text-align: left;
+}
+
+.sulka {
+    text-decoration: none;
+    color: rgb(199, 6, 6);
+}
